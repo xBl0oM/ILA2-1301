@@ -54,7 +54,6 @@ Wir Programmieren einen "Frick-Renner", der wie ein Pferderennenn agiert, aber a
 |8.A|25.10|Damian Eisenring|Anpassung der Wettgewinne|90'|
 
 Total:1080'
-    Total:1080'
 ## 3 Entscheiden
 
 
