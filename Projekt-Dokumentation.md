@@ -42,18 +42,19 @@ Wir Programmieren einen "Frick-Renner", der wie ein Pferderennenn agiert, aber a
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
-
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |18.10|Jan Frey|Implementation von Kollegen|90'|
+| 2.A  |18.10|Damian Eisenring|Implementation von Wetten|90'|
+|3.A|18.10|Jan Frey|Implementation von spannenden Rennen|180'|
+|4.A|18.10|Damian Eisenring|Implementation von Rangliste|180'|
+|5.A|25.10|Jan Frey|Implementation von Fähigkeiten|180'|
+|6.A|25.10|Jan Frey|Balancing der Fähigkeiten|90'|
+|7.A|25.10|Damian Eisenring|Implementation der Wettauswahl|180'|
+|8.A|25.10|Damian Eisenring|Anpassung der Wettgewinne|90'|
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
+Total:1080'
+    Total:1080'
 ## 3 Entscheiden
 
 
