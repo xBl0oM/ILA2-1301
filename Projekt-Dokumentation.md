@@ -37,9 +37,6 @@ Wir Programmieren einen "Frick-Renner", der wie ein Pferderennenn agiert, aber a
 |7.1|Benutzer  startet das Spiel|-|Auswahlmöglichkeit der Anzahl Kollegen.
 |8.1|Benutzer startet das Spiel|Wählt Anzahl Kollegen aus und setzt Wetteinsatz|Benutzer erhählt angepasste Gewinne, jenachdem wie viele Kollegen teilnehmen.|
 
-### 1.4 Diagramme
-
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
