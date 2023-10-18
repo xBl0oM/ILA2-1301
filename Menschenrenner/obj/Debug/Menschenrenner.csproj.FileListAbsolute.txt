@@ -1,0 +1,15 @@
+C:\Users\damia\source\repos\Menschenrenner\bin\Debug\Menschenrenner.exe.config
+C:\Users\damia\source\repos\Menschenrenner\bin\Debug\Menschenrenner.exe
+C:\Users\damia\source\repos\Menschenrenner\bin\Debug\Menschenrenner.pdb
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\Menschenrenner.csproj.AssemblyReference.cache
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\MainWindow.g.cs
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\App.g.cs
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\Menschenrenner_MarkupCompile.cache
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\Menschenrenner_MarkupCompile.lref
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\MainWindow.baml
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\Menschenrenner.g.resources
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\Menschenrenner.Properties.Resources.resources
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\Menschenrenner.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\Menschenrenner.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\Menschenrenner.exe
+C:\Users\damia\source\repos\Menschenrenner\obj\Debug\Menschenrenner.pdb
