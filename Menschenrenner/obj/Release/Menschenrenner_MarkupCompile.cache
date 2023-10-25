@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Schule\BBB\2.Jahr\ila\1301\ILA2-1301-main\ILA2-1301-main\Menschenrenner\obj\Debug\
+C:\Schule\BBB\2.Jahr\ila\1301\ILA2-1301-main\ILA2-1301-main\Menschenrenner\obj\Release\
 Menschenrenner
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Schule\BBB\2.Jahr\ila\1301\ILA2-1301-main\ILA2-1301-main\Menschenrenner\App.xaml
 2-327929495
 
@@ -16,5 +16,5 @@ C:\Schule\BBB\2.Jahr\ila\1301\ILA2-1301-main\ILA2-1301-main\Menschenrenner\App.x
 13-1310406943
 MainWindow.xaml;Selection.xaml;
 
-False
+True
 
