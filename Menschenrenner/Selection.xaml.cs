@@ -38,13 +38,13 @@ namespace Menschenrenner
             ben_choose.Visibility = Visibility.Visible;
         }
         private void ben_Image_MouseLeave(object sender, System.Windows.Input.MouseEventArgs e)
-        {           
+        {
             ben_text.Visibility = Visibility.Hidden;
             damian_img.Visibility = Visibility.Visible;
             jan_img.Visibility = Visibility.Visible;
             janick_img.Visibility = Visibility.Visible;
             joel_img.Visibility = Visibility.Visible;
-            
+
         }
         private void damian_Image_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e)
         {
@@ -119,7 +119,7 @@ namespace Menschenrenner
             MainWindow mainWindow = new MainWindow();
             mainWindow.Show();
             this.Close();
-           
+
 
         }
         private void ben_click(object sender, RoutedEventArgs e)
@@ -148,7 +148,5 @@ namespace Menschenrenner
             mainWindow.Show();
             this.Close();
         }
-
-
     }
 }

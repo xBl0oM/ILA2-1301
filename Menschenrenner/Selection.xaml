@@ -140,9 +140,5 @@
         <Button Content="Choose" Name ="jan_choose" HorizontalAlignment="Left" Height="39" Margin="380,317,0,0" VerticalAlignment="Top" Width="95" Click="jan_click" Visibility="Hidden"/>
         <Button Content="Choose" Name ="janick_choose" HorizontalAlignment="Left" Height="39" Margin="545,317,0,0" VerticalAlignment="Top" Width="95" Click="janick_click" Visibility="Hidden"/>
         <Button Content="Choose" Name ="joel_choose" HorizontalAlignment="Left" Height="39" Margin="700,317,0,0" VerticalAlignment="Top" Width="95" Click="joel_click" Visibility="Hidden"/>
-        <Grid >
-
-        </Grid>
-
     </Grid>
 </Window>
