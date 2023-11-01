@@ -60,7 +60,7 @@ namespace Menschenrenner
             damian_text.Visibility = Visibility.Hidden;
             ben_img.Visibility = Visibility.Visible;
             jan_img.Visibility = Visibility.Visible;
-            janick_img.Visibility = Visibility.Visible;
+            janick_img.Visibility = Visibility.Visible; 
             joel_img.Visibility = Visibility.Visible;
         }
         private void jan_Image_MouseEnter(object sender, System.Windows.Input.MouseEventArgs e)
