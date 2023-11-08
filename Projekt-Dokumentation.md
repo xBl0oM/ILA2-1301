@@ -42,7 +42,9 @@ Wir Programmieren einen "Frick-Renner", der wie ein Pferderennenn agiert, aber a
 |3.A|18.10|Jan Frey|Implementation von spannenden Rennen|180'|
 |4.A|25.10|Damian Eisenring|Implementation von Fähigkeiten|180'|
 |5.A|25.10|Jan Frey|Balancing der Fähigkeiten|90'|
-Total eingeplante Zeit:640'
+|6.A|01.11|Beide|Portfolio eintrag schreiben.|180'|
+|7.A|08.11|Beide|Dokumentation finalisieren und überprüfen|60'|
+Total eingeplante Zeit:840'
 
 ## 4 Realisieren
 
@@ -53,8 +55,10 @@ Total eingeplante Zeit:640'
 | 3.A  |18.10.2023|Jan Frey|180' |200'|
 | 4.A  |18.10.2023|Damian Eisenring|180' |200'|
 | 5.A  |25.10.2023|Jan Frey|90' |100'|
+|6.A|01.11|Beide|180'|150'|
+|7.A|08.11|Beide|60'|50'|
 
-Total tatsächliche Zeit:880'
+Total tatsächliche Zeit:1100'
 
 ## 5 Testen
 
