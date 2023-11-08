@@ -55,3 +55,15 @@ Total eingeplante Zeit:640'
 | 5.A  |25.10.2023|Jan Frey|90' |100'|
 
 Total tatsächliche Zeit:880'
+
+## 4 Realisieren
+
+| TC-№ | Datum | Resultat | Tester |
+| ---- | ----- | -------- | ------ |
+| 1.1  |   06.09.2023  | funktioniert|Damian Eisenring|
+| 2.1  |   06.09.2023  | funktioniert nicht|Damian Eisenring|
+| 3.1  |   06.09.2023  | funktioniert|Damian Eisenring|
+| 4.1  |   06.09.2023  | funktioniert|Damian Eisenring|
+| 5.1  |   06.09.2023  | funktioniert|Damian Eisenring|
+| 6.1  |   06.09.2023  | funktioniert|Damian Eisenring|
+| ...  |       |          |        |
